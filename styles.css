@@ -1,0 +1,142 @@
+/* 
+
+    PAGE STYLING
+
+*/
+
+body {
+    background-color: #FFD6A6;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* 
+
+   TEXT STYLING
+
+*/
+
+.center-text {
+    text-align: center;
+}
+
+.justified-text {
+    text-align: justify;
+}
+
+.section-spacing {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/* 
+
+   NAVIGATION BAR
+   
+*/
+
+.navbar-container {
+    width: 100%;
+    border: 1px solid black;
+    background-color: #FFF0BE;
+    border-collapse: collapse;
+}
+
+.navbar-content {
+    width: 100%;
+}
+
+.site-title {
+    padding-left: 10px;
+}
+
+.navigation-links {
+    text-align: right;
+    padding-right: 10px;
+}
+
+/* 
+
+   IMAGES
+
+*/
+
+.profile-image {
+    width: 250px;
+}
+
+.hobby-image {
+    width: 250px;
+}
+
+.champ-image {
+    width: 360px;
+    height: 300px;
+}
+
+.uvmw-image {
+    width: 360px;
+    height: 480px;
+}
+
+.music-image {
+    width: 360px;
+    height: 360px;
+}
+
+
+/* 
+
+   TABLES
+
+*/
+
+.content-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.hobby-table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.story-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+/* 
+
+   AUDIO 
+
+ */
+
+.audio-section {
+    width: 100%;
+}
+
+.audio-text {
+    text-align: right;
+    padding-right: 10px;
+}
+
+
+/*
+
+   FORM (MESSAGING)
+
+*/
+
+.contact-form {
+    text-align: center;
+}
+
+.message-box {
+    resize: none;
+}
